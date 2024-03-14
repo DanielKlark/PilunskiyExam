@@ -16,7 +16,7 @@
 
 .section-start {
 
-    background-image: url(./images/start-screen-gradient-background.png);
+    background-image: url(../images/start-screen-gradient-background.png);
 }
 
 .header-wrap {
@@ -364,7 +364,7 @@ line-height: 20px;
 
 .footer{
  height: 350px;   
-background-image: url(./images/footer-background.png);
+background-image: url(../images/footer-background.png);
 }
 
 .footer-wrap{
